@@ -3,8 +3,8 @@
     {
       "name": "test",
       "setup": "clang exercise.c -o exercise",
-      "run": "./exercise",
-      "input": "10 12 14 16",
+      "run": "./exercise 10 12 14 16",
+      "input": "",
       "output": "52",
       "comparison": "included",
       "timeout": 10,
