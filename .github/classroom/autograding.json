@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test",
+      "setup": "clang exercise.c -o exercise",
+      "run": "./exercise",
+      "input": "10 12 14 16",
+      "output": "52",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
