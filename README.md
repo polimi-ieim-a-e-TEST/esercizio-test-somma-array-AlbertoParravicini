@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/polimi-ieim-a-e-TEST/esercizio-test-somma-array-AlbertoParravicini)](https://repl.it/github/polimi-ieim-a-e-TEST/esercizio-test-somma-array-AlbertoParravicini)
 
 <!-- NO EDITS ABOVE THIS LINE -->
 
