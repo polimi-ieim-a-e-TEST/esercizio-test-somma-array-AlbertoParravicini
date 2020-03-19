@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
     // Add your function here //
     ////////////////////////////
   
-    for (int i =0; i < N; i++) {
+    for (int i = 0; i < 2; i++) {
       array_sum += array[i];
     }
 
