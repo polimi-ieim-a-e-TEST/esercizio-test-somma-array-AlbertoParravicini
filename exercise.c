@@ -8,7 +8,14 @@ int main(int argc, char *argv[]) {
     int array_sum = 0;
 
     // Read array from input;
-    scanf("%d", array[0]);
+    int input_size = argc - 1;
+    if (input_size > N || input_size <= 0) {
+        printf("figa ma sei scemo, N=%d\n", input_size);
+        return -1;
+    }
+    for (int i = 0; i < input_size; i++) {
+        array[i] = atoi(argv[i + 1]);
+    }
 
     ////////////////////////////
     // Add your function here //
